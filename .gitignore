@@ -1,3 +1,4 @@
-.idea
+.idea/*
+!.idea/postfixCompletion
 
 /**/node_modules/
