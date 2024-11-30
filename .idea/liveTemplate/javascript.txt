@@ -1,0 +1,4 @@
+// dict
+let $NAME$ = {
+   $KEY$: $VALUE$,
+};

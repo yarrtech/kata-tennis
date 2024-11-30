@@ -1,4 +1,5 @@
 .idea/*
 !.idea/postfixCompletion
+!.idea/liveTemplate
 
 /**/node_modules/
