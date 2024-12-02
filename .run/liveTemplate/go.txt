@@ -1,0 +1,19 @@
+import (
+    "github.com/stretchr/testify/suite"
+    "testing"
+)
+
+type $type$TestSuite struct {
+    suite.Suite
+    $sut$
+}
+
+func Test$type$TestSuite(t *testing.T) {
+    suite.Run(t, new($type$TestSuite))
+}
+
+func (s *$type$TestSuite) SetupTest() {
+}
+
+func (s *$type$TestSuite) Test_something() {
+}
