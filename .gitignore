@@ -1,5 +1,3 @@
-.idea/*
-!.idea/postfixCompletion
-!.idea/liveTemplate
+.idea/
 
 /**/node_modules/
