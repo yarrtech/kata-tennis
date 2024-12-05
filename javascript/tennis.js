@@ -26,10 +26,7 @@ export class Tennis {
     }
 
     advState() {
-        if (this.isAdv()) {
-            return this.advScore();
-        }
-        return this.winScore();
+        return this.isAdv() ? this.advScore() : this.winScore();
     }
 
     isAdv() {
