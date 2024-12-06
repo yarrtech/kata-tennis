@@ -1,0 +1,5 @@
+// JUnit
+// test case method
+@Test
+public void $NAME$() {
+}
