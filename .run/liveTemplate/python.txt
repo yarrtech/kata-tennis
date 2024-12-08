@@ -1,0 +1,16 @@
+# unittest file code template
+import unittest
+
+class #[[$Title$]]#TestCase(unittest.TestCase):
+    def test_#[[$case$]]#(self):
+        self.assertEqual(True, False)  # add assertion here
+
+if __name__ == '__main__':
+    unittest.main()
+
+# forstop
+for $i$ in range($times$):
+    $END$$SELECTION$
+
+# abs()
+abs($SELECTION$)$END$
